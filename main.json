@@ -1,0 +1,52 @@
+{
+	"profile":{
+		"img":"img.jpg",
+		"name":"Neha Nikhila",
+		"roll":"16NN1A1214",
+		"college":"Vignan Nirula",
+		"place":"Guntur"
+	},
+	"carrer":{
+		"info":"To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective"
+},
+"education":[
+	{
+		"degree":"b.tech",
+		"institution":"Vignan Institute of Technology",
+		"yop":"2020"
+	},
+	{
+		"degree":"Intermediate",
+		"institution":"Sri Gayathri ",
+		"yop":"2016"
+
+	},
+	{
+		"degree":"SSC",
+		"institution":"Ravindra bharathi",
+		"yop":"2014"
+	}
+],
+"languages":[
+	{
+		"lang":"telugu"
+	},
+	{
+		"lang":"english"
+	}
+],
+"skills":[
+{
+ "title":"platform",
+ "content":"windows,linux"
+},
+{
+	"title":"programming languages",
+	"content":"c,c++,java"
+},
+{
+	"title":"database",
+	"content":"mysql"
+}
+]
+}
